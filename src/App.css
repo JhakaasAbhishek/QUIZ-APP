@@ -1,0 +1,17 @@
+.q{
+
+  background-color: rgb(233, 78, 78);
+  color: aliceblue;
+  padding: 10px;
+  margin: 2px 2px;
+  border-block-end-style: double;
+       }
+
+       .a{
+           background-color: aqua;
+           color: black;
+           padding: 111px 112px;
+           margin:4px 4px;
+           border: 100px 100px;
+           border-style: double;
+       }
